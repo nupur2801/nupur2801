@@ -50,8 +50,8 @@ npm start
 
 ## 📞 Let's Connect
 - � **Email**: nupurpatel602@gmail.com
-- 📱 **Phone**: +91 8401702801
-- 🌍 **Location**: India
+- 📱 **Phone**: +1 (856)-526-8177
+- 🌍 **Location**: New Jersey, USA
 - 🗣️ **Languages**: English, Hindi, Gujarati
 
 ---
