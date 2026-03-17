@@ -38,7 +38,7 @@ cd nupurz-portfolio
 npm install
 npm start
 ```
-Visit `http://localhost:3000` to explore!
+
 
 ## 📊 Skills Grid
 | Frontend | Backend | Tools |
