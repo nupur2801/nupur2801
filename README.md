@@ -9,13 +9,7 @@ Passionate Full Stack Developer & AWS Cloud Practitioner who loves turning compl
 - **Cloud Skills**: AWS services & deployment
 - **Modern Tools**: Git, GitHub, LangChain AI
 
-## 🎯 Featured Projects
 
-### 🛍️ [Bag Shop](https://nupurpatel-myfirstwebsite.netlify.app/)
-Modern e-commerce design with pure HTML & CSS
-
-### 🧮 [Age Calculator](https://age-calculataor-by-nupur.netlify.app/)
-Interactive tool built with HTML, CSS & JavaScript
 
 ## 🎨 Tech Stack
 ```
